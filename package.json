@@ -7,5 +7,8 @@
     "test": "jest"
   },
   "author": "Anatoly",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.3"
+  }
 }
