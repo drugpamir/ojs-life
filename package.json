@@ -1,0 +1,11 @@
+{
+  "name": "life",
+  "version": "1.0.0",
+  "description": "Game of life",
+  "main": "index.html",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Anatoly",
+  "license": "ISC"
+}
