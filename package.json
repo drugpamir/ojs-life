@@ -9,6 +9,10 @@
   "author": "Anatoly",
   "license": "ISC",
   "devDependencies": {
+    "@babel/core": "^7.25.8",
+    "@babel/preset-env": "^7.25.8",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0",
     "typescript": "^5.6.3"
   }
 }
